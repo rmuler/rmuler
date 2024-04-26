@@ -1,7 +1,7 @@
 Hi 👋 My name is Richard
 ==========================
 
-Full Stack Software Developer
+Full Stack Development Student
 -----------------------------
 
 I'm a 20 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
