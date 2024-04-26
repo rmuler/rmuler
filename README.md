@@ -11,9 +11,9 @@ I am also a student at [Estácio](https://estacio.br) and I'm in the 1st period 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [richard.amaral.rj21@gmail.com](mailto:richard.amaral.rj21@gmail.com)
 * 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
+* 🧠  I'm learning Javascript, HTML, Css and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  I love sports and my favorite is Trail
 
 ### Skills
 
