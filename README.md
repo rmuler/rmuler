@@ -4,12 +4,12 @@ Hi 👋 My name is Richard
 Full Stack Software Developer
 -----------------------------
 
-I'm a 20 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 20 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main objective is to stand out in the market as a full stack developer
 
-I am also a student at [Estácio](https://estacio.br), a Computer Science school that have [54 campus in 31 countries](https://www.42network.org/42-schools/).
+I am also a student at [Estácio](https://estacio.br) and I'm in the 1st period of the Computer Science school.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* ✉️  You can contact me at [richard.amaral.rj21@gmail.com](mailto:richard.amaral.rj21@gmail.com)
 * 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
