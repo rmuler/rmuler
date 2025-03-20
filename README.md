@@ -6,7 +6,7 @@ Full Stack Development Student
 
 I'm a 21 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-I am also a student at [Estácio](https://estacio.br), in the 2st period of Computer Science.
+I am also a student at [Estácio](https://estacio.br), in the 3st period of Computer Science.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [richard.amaral.rj21@gmail.com](mailto:richard.amaral.rj21@gmail.com)
